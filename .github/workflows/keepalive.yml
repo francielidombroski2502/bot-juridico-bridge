@@ -1,0 +1,20 @@
+name: Keep Alive
+
+on:
+  schedule:
+    - cron: '*/14 * * * *'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping bot server
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" https://bot-juridico-bridge.onrender.com/health)
+          echo "Status: $response"
+          if [ "$response" = "200" ]; then
+            echo "Bot esta online!"
+          else
+            echo "Bot retornou status $response"
+          fi
