@@ -31,6 +31,20 @@ Toda petição, impugnação, manifestação, recurso ou requerimento deve segui
    aconteceu, o que foi provado e por que o cliente tem direito ao benefício (requisito
    legal → prova → conclusão).
 
+## Perguntar antes de redigir (obrigatório)
+
+Antes de começar a redigir qualquer peça (petição, manifestação, recurso, impugnação,
+requerimento), ler os autos e, **se houver sugestão, dúvida ou ponto estratégico**, perguntar
+primeiro à Dra. Francieli e só redigir depois da resposta. Exemplos do que perguntar antes:
+
+- fatos que dependem de confirmação externa (ex.: benefício já implantado? há recurso do INSS?);
+- escolhas estratégicas (ex.: sugerir valor de multa, incluir ou não um pedido, tom da peça);
+- divergências encontradas nos autos (datas, competência/órgão, numeração, dados incompletos);
+- documentos que precisarão ser juntados.
+
+Fazer as perguntas de forma objetiva, de uma vez só, com a opção recomendada indicada.
+Se não houver nenhuma dúvida relevante, redigir direto.
+
 ## Checklist de conferência antes de protocolar
 
 - [ ] Cada CID, data, nome de médico e CRM confere com o documento original.
